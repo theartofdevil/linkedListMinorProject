@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		8DAF072C258BE27B00EF9BD0 /* prolab proje 3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "prolab proje 3"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DAF072F258BE27B00EF9BD0 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		8DAF0737258BE43E00EF9BD0 /* text.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = text.txt; path = "../../../Developer/Xcode/DerivedData/prolab_proje_3-awyyjqqcxkvzlefavncsoskbousj/Build/Products/Debug/text.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				8DAF072F258BE27B00EF9BD0 /* main.c */,
+				8DAF0737258BE43E00EF9BD0 /* text.txt */,
 			);
 			path = "prolab proje 3";
 			sourceTree = "<group>";
